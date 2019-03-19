@@ -1,0 +1,21 @@
+.buttonList{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.buttonListItem{
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 10%;
+}
+.buttonListItem:hover{
+    background-color: rgb(158, 158, 158);
+}
